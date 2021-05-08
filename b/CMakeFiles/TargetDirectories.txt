@@ -1,0 +1,8 @@
+/home/zuong/Documents/CAdvanced/Week10/dllist-iqueue/b/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/Week10/dllist-iqueue/b/CMakeFiles/stack.dir
+/home/zuong/Documents/CAdvanced/Week10/dllist-iqueue/b/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/Week10/dllist-iqueue/b/CMakeFiles/iqueue-demo2.dir
+/home/zuong/Documents/CAdvanced/Week10/dllist-iqueue/b/CMakeFiles/iqueue-demo.dir
+/home/zuong/Documents/CAdvanced/Week10/dllist-iqueue/b/libfdr/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/Week10/dllist-iqueue/b/libfdr/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/Week10/dllist-iqueue/b/libfdr/CMakeFiles/fdr.dir
