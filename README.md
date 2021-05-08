@@ -26,3 +26,18 @@ typedef struct dllist {
 dll_first(list);
 dll_last(list);
 ```
+#### In danh sách
+```
+Dllist cur;
+dll_traverse(cur, list)   //in từ đầu tới cuối
+{
+  printf("%d ", cur->val.i);
+}
+printf("\n");
+
+dll_rtraverse(cur, list)  //in từ cuối tới đầu
+{
+  printf("%d ", cur->val.i);
+}
+printf("\n");
+```
